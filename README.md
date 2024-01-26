@@ -1,7 +1,7 @@
 # Battleship
 Battleship game using javafx
 
-This repository only contains the source code. I've included pictures to demonstrate the course of events. This project was done as a group project for a course @ University of Turku.
+This repository only contains the source code. I've included pictures to demonstrate the course of events. This project was done as a group project.
 
 main menu:
 
